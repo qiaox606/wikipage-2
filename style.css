@@ -1,0 +1,27 @@
+/* CSS files add styling rules to your content */
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+  font-family: 'Lobster', cursive;
+  margin: 2em;
+  margin: 25px 50px 75px 100px;
+}
+
+.header {
+  font-style: italic;
+  color: #373fff;
+  margin: 25px 50px 75px 100px;
+  text-align: center;
+}
+
+h1 {
+  font-family:'Lobster', cursive;
+}
+  aside {
+  width: 20%;
+  padding-right: 15px;
+  margin-right: 15px;
+  float: left;
+  background-color: lightgray;
+}
